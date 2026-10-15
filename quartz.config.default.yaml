@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: es-ES
-  baseUrl: lazarox100.github.io/siempre-mejor  
+  baseUrl: lazarox100.github.io/siempre-mejor
   ignorePatterns:
     - private
     - templates
