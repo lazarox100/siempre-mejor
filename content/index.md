@@ -1,86 +1,41 @@
 ---
-title: Estudios y Curiosidades Bíblicas
-description: Un espacio dedicado al estudio de la Biblia, sus lenguas, historia, contexto, curiosidades y temas relacionados.
-author: Daniel Andrés Martínez Robalino
-date: 2026-08-14
-draft: false
-enableToc: false
-tags:
-  - inicio
-  - biblia
-  - estudios-biblicos
-share: true
-id: index
----
-<div style="text-align: center; margin: 2.5rem 0 2rem 0;">
-
-# 📖 Estudios y Curiosidades Bíblicas
-
-</div>
-
-> [!quote] Bienvenido
-> Este sitio está destinado a **compartir conocimiento sobre estudios bíblicos, curiosidades, historia, lenguas bíblicas y otros temas relacionados**.
->
-> La intención es acercarnos a los textos con interés por su **contexto histórico, cultural y lingüístico**, distinguiendo, cuando sea necesario, entre lo que dice el texto, sus posibles interpretaciones y las tradiciones desarrolladas posteriormente.
-
-## 🧭 ¿Qué encontrarás aquí?
-
-### 📜 Estudios bíblicos
-Análisis de pasajes, personajes, libros y temas de las Escrituras, procurando observar su contexto literario e histórico antes de extraer conclusiones.
-
-### 🔎 Curiosidades bíblicas
-Palabras, expresiones, datos y detalles que muchas veces pasan inadvertidos en una lectura habitual y que pueden enriquecer nuestra comprensión del texto.
-
-### 🏺 Historia y contexto
-El mundo en el que surgieron los textos bíblicos: pueblos, culturas, acontecimientos, costumbres, geografía y desarrollo histórico del judaísmo y del cristianismo.
-
-### 🔤 Lenguas y términos bíblicos
-Estudio de palabras del **hebreo, arameo y griego**, considerando su campo semántico, contexto y problemas de traducción.
-
-### ⛪ Historia del cristianismo
-Notas y estudios sobre el cristianismo primitivo, los Padres de la Iglesia, concilios, movimientos, personajes y acontecimientos que marcaron su desarrollo histórico.
-
-### 🎨 Arte, cultura y otros temas relacionados
-Reflexiones y materiales en los que la Biblia, la historia, la cultura y las artes pueden encontrarse y dialogar desde distintas perspectivas.
-
+tags: [mejora-continua, aprendizaje, sistema]
+aliases: [Cómo ser mejor, Sistema de mejora]
 ---
 
-## 🌿 Un jardín digital en crecimiento
+# 00 - Inicio
 
-Este sitio no pretende ser una enciclopedia cerrada. Es un **espacio de estudio en constante crecimiento**, donde las notas pueden ampliarse, corregirse y conectarse entre sí a medida que aparecen nuevas preguntas, fuentes y hallazgos.
+> [!abstract] Idea central
+> **Mejorar = detectar una brecha → intentar → obtener evidencia → diagnosticar → corregir → consolidar → transferir → elevar el nivel → detectar una nueva brecha.**
 
-La estructura sigue, en buena medida, la filosofía de un **jardín digital** y del método **Zettelkasten**: una idea puede conducir a otra, y cada enlace puede abrir un nuevo camino de estudio.
+Este vault convierte la idea de “ser mejor” en un **sistema de mejora continua personal**. No pretende ser una teoría psicológica nueva ni afirmar que todo el proceso ha sido validado como un único modelo. Es una **síntesis práctica** de hallazgos de ciencia del aprendizaje, investigación sobre práctica experta, feedback, transferencia, autorregulación y sueño, junto con algunos modelos conceptuales útiles.
 
-> [!info] Criterio de estudio
-> Siempre que sea posible, se procurará diferenciar entre:
-> - **texto bíblico** y traducción;
-> - **contexto histórico** e interpretación posterior;
-> - **datos documentados** e hipótesis;
-> - **consenso académico** y posiciones debatidas;
-> - **tradición religiosa** y evidencia textual o histórica.
+## Empezar aquí
 
----
+1. [[01 Sistema/01 - Mapa maestro|Mapa maestro]] — visión completa del ciclo.
+2. [[01 Sistema/08 - Diagnóstico de fallas|Diagnóstico de fallas]] — conocimiento, ejecución o estrategia.
+3. [[02 Fundamentos/09 - Base científica del modelo|Base científica del modelo]] — por qué cada parte está ahí y qué tan fuerte es su respaldo.
+4. [[03 Plantillas/11 - Plantilla de aplicación|Plantilla de aplicación]] — para usar el sistema en una habilidad concreta.
+5. [[02 Fundamentos/10 - Fuentes y referencias|Fuentes y referencias]] — bibliografía principal.
 
-## 🧑 Sobre mi
-Mi nombre es **Daniel Martínez **. Soy originario de la ciudad de **Puyo, ubicada en la Amazonía ecuatoriana**.
+## Las seis fases
 
-Soy una persona agradecida con **Dios por su misericordia y su infinito amor**, y por haberme permitido cultivar y combinar a lo largo del tiempo varias áreas que me apasionan, entre ellas la **historia, la investigación, la teología, las artes y el conocimiento en general**.
+- [[01 Sistema/02 - Orientar|0 · Orientar]]
+- [[01 Sistema/03 - Aprender|1 · Aprender]]
+- [[01 Sistema/04 - Practicar|2 · Practicar]]
+- [[01 Sistema/05 - Consolidar|3 · Consolidar]]
+- [[01 Sistema/06 - Transferir|4 · Transferir]]
+- [[01 Sistema/07 - Elevar|5 · Elevar]]
 
-## ✉️ Contacto
+## Principios rectores
 
-Si tienes alguna **sugerencia, corrección, pregunta o tema** que consideres interesante investigar, puedes escribirme a:
+- No confundir **sentir fluidez** con haber aprendido.
+- No practicar “todo”; identificar la **brecha prioritaria**.
+- El error es un **dato de diagnóstico**, no el objetivo.
+- El feedback también importa cuando el resultado parece correcto.
+- Un desempeño inmediato no prueba aprendizaje: hay que verificar **retención**.
+- La habilidad debe funcionar fuera del ejercicio practicado: hay que verificar **transferencia**.
+- Cuando se alcanza un nivel, se vuelve a orientar: aparece una **nueva brecha**.
 
-### [mindtec.ec@gmail.com](mailto:mindtec.ec@gmail.com)
-
-Toda observación bien fundamentada puede contribuir a mejorar, corregir y ampliar este espacio de estudio.
-
----
-
-<div style="text-align: center; margin-top: 3rem; opacity: 0.75;">
-
-**Daniel Andrés Martínez Robalino**  
-Puyo, Ecuador · Amazonía ecuatoriana
-
-*Estudiar el texto, comprender su contexto y seguir haciendo preguntas.*
-
-</div>
+> [!important] Distinción central
+> Ante una dificultad, preguntar primero: **¿me falta conocimiento, ejecución o estrategia?** Esa clasificación decide a qué parte del ciclo regresar.
