@@ -1,2 +1,0 @@
-# «Dios les da sus peores batallas a sus mejores soldados»
-La frase no aparece en la Biblia. Es una expresión motivacional moderna de origen incierto. Puede relacionarse temáticamente con pasajes sobre pruebas, perseverancia y sufrimiento, pero no debe citarse como si fuera un versículo. Conviene notar, además, que transmite una idea problemática: que una persona sufre porque es espiritualmente más fuerte que las demás. La Biblia muestra también a personas débiles, vulnerables o quebrantadas que reciben ayuda y gracia.
