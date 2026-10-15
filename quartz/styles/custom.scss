@@ -1,18 +1,16 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
 /* ========================================================
    TEMA ELEGANTE EDITORIAL & VISUAL PARA QUARTZ
    ======================================================== */
 
-// 1. Tipografía y lectura fluida
 body {
-  letter-spacing: -0.011em;
+  letter-spacing: -0.01em;
   line-height: 1.8;
-  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
 }
 
-// 2. Títulos refinados con acento sutil
 article h1 {
   font-weight: 700;
   letter-spacing: -0.03em;
@@ -39,11 +37,9 @@ article h2, article h3 {
   margin-top: 2rem;
 }
 
-// 3. Barra de búsqueda moderna con elevación
 .search-button {
   border-radius: 10px !important;
   border: 1px solid var(--lightgray) !important;
-  background-color: var(--light) !important;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
   transition: all 0.2s ease-in-out;
 
@@ -54,24 +50,21 @@ article h2, article h3 {
   }
 }
 
-// 4. Explorador lateral con cápsulas suaves al pasar el cursor
-.explorer {
-  .folder-container, .file-container {
-    transition: all 0.15s ease;
-    border-radius: 6px;
-    padding: 3px 6px;
+.explorer .folder-container,
+.explorer .file-container {
+  transition: all 0.15s ease;
+  border-radius: 6px;
+  padding: 3px 6px;
 
-    &:hover {
-      background-color: var(--lightgray);
-      transform: translateX(2px);
-    }
+  &:hover {
+    background-color: var(--lightgray);
+    transform: translateX(2px);
   }
 }
 
-// 5. Citas y Callouts con estilo editorial
 blockquote {
   border-left: 3px solid var(--secondary) !important;
-  background: color-mix(in srgb, var(--secondary) 5%, transparent);
+  background-color: var(--lightgray) !important;
   border-radius: 0 10px 10px 0;
   padding: 1rem 1.25rem !important;
   font-style: normal !important;
@@ -85,7 +78,6 @@ blockquote {
   overflow: hidden;
 }
 
-// 6. Etiquetas (Tags) tipo píldora
 a.internal.tag-link {
   border-radius: 20px;
   padding: 2px 10px;
@@ -102,7 +94,6 @@ a.internal.tag-link {
   }
 }
 
-// 7. Tablas limpias y legibles
 table {
   border-collapse: separate;
   border-spacing: 0;
@@ -123,7 +114,6 @@ table {
   }
 }
 
-// 8. Bloques de código con esquinas suaves y relieve
 pre {
   border-radius: 10px !important;
   border: 1px solid var(--lightgray) !important;
