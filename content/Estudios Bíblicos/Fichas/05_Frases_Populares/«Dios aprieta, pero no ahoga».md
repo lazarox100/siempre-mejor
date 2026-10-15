@@ -1,3 +1,0 @@
-# «Dios aprieta, pero no ahoga»
-
-No es un versículo bíblico, sino parte del refranero popular. A veces se relaciona con 1 Corintios 10:13, aunque ese pasaje se refiere específicamente a la tentación o prueba y a la posibilidad de resistirla, y no formula el refrán popular ni promete que toda situación dolorosa terminará antes de alcanzar un límite físico o emocional. La variante «Dios aprieta, pero no ahorca» pertenece igualmente a la tradición proverbial.

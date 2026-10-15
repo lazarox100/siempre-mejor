@@ -1,9 +1,0 @@
-# «La voz del pueblo es la voz de Dios» (_Vox populi, vox Dei_)
-
-La frase no aparece en la Biblia, en ningún idioma ni forma. Es un aforismo latino de origen extrabíblico, y su historia real es más irónica que el uso que hoy se le da.
-
-No hay consenso sobre su autor original. Se ha atribuido a Hesíodo (Grecia, siglo VIII a.C.), aunque esta atribución es débil y no está documentada con precisión. El testimonio mejor documentado proviene de una carta de **Alcuino de York**, teólogo anglosajón y consejero de Carlomagno, escrita hacia los siglos VIII-IX. Sin embargo, Alcuino no citó la frase para respaldarla, sino para advertir contra ella: sostuvo que no debía escucharse a quienes solían decir que «la voz del pueblo es la voz de Dios», pues el tumulto de la multitud está próximo a la locura. Su uso «positivo», como validación de la voluntad popular, se consolidó más tarde y suele atribuirse a **Guillermo de Malmesbury**, cronista anglonormando del siglo XII.
-
-Se suele forzar una relación con Isaías 66:6 («voz de estruendo que viene de la ciudad... la voz del Señor que da el pago a sus enemigos»), pero el pasaje describe un juicio divino pronunciado desde el templo, no una equiparación entre la opinión popular y la voluntad de Dios: la conexión es únicamente verbal, por la palabra «voz».
-
-Existe un pasaje bíblico más pertinente por su tema, aunque de sentido opuesto al que la frase popular sugiere: Hechos 12:22-23. Cuando el pueblo aclama a Herodes Agripa I diciendo que su voz es «voz de un dios, y no de hombre», el texto no presenta esa aclamación como algo positivo. El versículo siguiente narra que un ángel del Señor lo hirió y murió, «por cuanto no dio la gloria a Dios». Si algún pasaje bíblico se relaciona temáticamente con la idea de «la voz del pueblo aclamada como voz divina», es este, y funciona como advertencia contra esa idea, no como respaldo.
